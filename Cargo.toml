@@ -1,0 +1,14 @@
+[package]
+name = "loop-let"
+version = "0.1.0"
+edition = "2021"
+description = "An immutable loop structure that can be used as an expression."
+authors = ["Jorge Harrisonn <jhmtv10@gmail.com>"]
+license-file = "LICENSE"
+repository = "https://github.com/OJarrisonn/loop-let"
+readme = "README.md"
+keywords = ["loop", "let", "immutable", "expression", "macro"]
+categories = ["rust-patterns", "algorithms" ]
+
+
+[dependencies]
